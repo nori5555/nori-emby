@@ -29,6 +29,22 @@
     {
       "name": "Charontv",
       "url": "https://raw.githubusercontent.com/nori5555/nori-emby/main/icons/charontv.png"
+     },
+    {
+      "name": "Na",
+      "url": "https://raw.githubusercontent.com/nori5555/nori-emby/main/icons/na.jpg"
+    },
+    {
+      "name": "Peach",
+      "url": "https://raw.githubusercontent.com/nori5555/nori-emby/main/icons/peach.png"
+    },
+    {
+      "name": "Zox",
+      "url": "https://raw.githubusercontent.com/nori5555/nori-emby/main/icons/zox.png"
+    },
+    {
+      "name": "Flybody",
+      "url": "https://raw.githubusercontent.com/nori5555/nori-emby/main/icons/flybody.png"
     }
   ]
 }
