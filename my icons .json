@@ -1,0 +1,11 @@
+```json
+{
+  "name": "forword文字图标库",
+  "description": "自定义图标",
+  "icons": [
+    {
+      "name": "琴鸟",
+      "url": ＂https://github.com/nori5555/forword-emby-/blob/main/icons/lyrebird.png"
+    }
+  ]
+}
