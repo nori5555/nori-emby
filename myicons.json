@@ -45,6 +45,22 @@
     {
       "name": "Flybody",
       "url": "https://raw.githubusercontent.com/nori5555/nori-emby/main/icons/flybody.png"
+       },
+    {
+      "name": "qidian",
+      "url": "https://raw.githubusercontent.com/nori5555/nori-emby/main/icons/qi.png"
+    },
+    {
+      "name": "Ping",
+      "url": "https://raw.githubusercontent.com/nori5555/nori-emby/main/icons/pi.png"
+    },
+    {
+      "name": "BB",
+      "url": "https://raw.githubusercontent.com/nori5555/nori-emby/main/icons/bb.png"
+    },
+    {
+      "name": "Rainbow",
+      "url": "https://raw.githubusercontent.com/nori5555/nori-emby/main/icons/rainbow.png"
     }
   ]
 }
