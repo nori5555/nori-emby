@@ -13,6 +13,22 @@
     {
       "name": "Moon",
       "url": "https://raw.githubusercontent.com/nori5555/nori-emby/main/icons/moon.png"
+    },
+    {
+      "name": "纸片人",
+      "url": "https://raw.githubusercontent.com/nori5555/nori-emby/main/icons/paper.png"
+    },
+    {
+      "name": "见手青",
+      "url": "https://raw.githubusercontent.com/nori5555/nori-emby/main/icons/mushroom.png"
+    },
+    {
+      "name": "Nya",
+      "url": "https://raw.githubusercontent.com/nori5555/nori-emby/main/icons/nya.png"
+    },
+    {
+      "name": "Charontv",
+      "url": "https://raw.githubusercontent.com/nori5555/nori-emby/main/icons/charontv.png"
     }
   ]
 }
