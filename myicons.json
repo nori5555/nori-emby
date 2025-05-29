@@ -73,6 +73,12 @@
     {
       "name": "星云",
       "url": "https://raw.githubusercontent.com/nori5555/nori-emby/main/icons/star.png"
+       "name": "Sirsta",
+      "url": "https://raw.githubusercontent.com/nori5555/nori-emby/main/icons/sirsta.png"
+    },
+    {
+      "name": "Raise",
+      "url": "https://raw.githubusercontent.com/nori5555/nori-emby/main/icons/raise.png"
     }
   ]
 }
