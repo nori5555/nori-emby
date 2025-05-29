@@ -45,7 +45,7 @@
     {
       "name": "Flybody",
       "url": "https://raw.githubusercontent.com/nori5555/nori-emby/main/icons/flybody.png"
-       },
+    },
     {
       "name": "起点",
       "url": "https://raw.githubusercontent.com/nori5555/nori-emby/main/icons/qi.png"
@@ -73,6 +73,8 @@
     {
       "name": "星云",
       "url": "https://raw.githubusercontent.com/nori5555/nori-emby/main/icons/star.png"
+      },
+    {
        "name": "Sirsta",
       "url": "https://raw.githubusercontent.com/nori5555/nori-emby/main/icons/sirsta.png"
     },
