@@ -8,7 +8,11 @@
     },
     {
       "name": "Temby",
-      "url": "https://raw.githubusercontent.com/nori5555/nori-emby/main/icons/Temby.jpg"
+      "url": "https://raw.githubusercontent.com/nori5555/nori-emby/main/icons/temby.jpg"
+    },
+    {
+      "name": "Moon",
+      "url": "https://raw.githubusercontent.com/nori5555/nori-emby/main/icons/moon.png"
     }
   ]
 }
