@@ -2,9 +2,9 @@
   "name": "forword文字图标库",
   "description": "nori-emby",
   "icons": [
-    {
-      "name": "lyrebird",
-      "icons": ＂https://raw.githubusercontent.com/nori5555/nori-emby/main/icons/lyrebird.png"
-    }
-  ]
-}
+[
+  {
+    "name": "Lyrebird",
+    "icon": "https://raw.githubusercontent.com/nori5555/nori-emby/main/icons/lyrebird.png"
+  }
+]
