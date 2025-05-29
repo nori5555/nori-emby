@@ -77,6 +77,14 @@
     {
       "name": "Raise",
       "url": "https://raw.githubusercontent.com/nori5555/nori-emby/main/icons/raise.png"
+      },
+    {
+       "name": "悬疑",
+      "url": "https://raw.githubusercontent.com/nori5555/nori-emby/main/icons/dou.png"
+    },
+    {
+      "name": "喜剧",
+      "url": "https://raw.githubusercontent.com/nori5555/nori-emby/main/icons/happy.png"
     }
   ]
 }
