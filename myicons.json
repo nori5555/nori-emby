@@ -1,5 +1,5 @@
 {
-  "name": "forword文字图标库",
+  "name": "forword艺术字图标",
   "description": "nori-emby",
   "icons": [
     {
@@ -61,6 +61,18 @@
     {
       "name": "彩虹",
       "url": "https://raw.githubusercontent.com/nori5555/nori-emby/main/icons/rainbow.png"
+        },
+    {
+      "name": "Omega",
+      "url": "https://raw.githubusercontent.com/nori5555/nori-emby/main/icons/omega.png"
+    },
+    {
+      "name": "Aaurora",
+      "url": "https://raw.githubusercontent.com/nori5555/nori-emby/main/icons/aaurora.png"
+    },
+    {
+      "name": "Star",
+      "url": "https://raw.githubusercontent.com/nori5555/nori-emby/main/icons/star.png"
     }
   ]
 }
