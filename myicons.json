@@ -28,7 +28,7 @@
     },
     {
       "name": "天南",
-      "url": "https://raw.githubusercontent.com/nori5555/nori-emby/main/icons/na.jpg"
+      "url": "https://raw.githubusercontent.com/nori5555/nori-emby/main/icons/na.png"
     },
     {
       "name": "Peach",
@@ -79,6 +79,14 @@
       "url": "https://raw.githubusercontent.com/nori5555/nori-emby/main/icons/raise.png"
     },
     {
+      "name": "cc公益",
+      "url": "https://raw.githubusercontent.com/nori5555/nori-emby/main/icons/cc.png"
+    },
+    {
+      "name": "终点站",
+      "url": "https://raw.githubusercontent.com/nori5555/nori-emby/main/icons/z.png" 
+    },
+    {
        "name": "悬疑",
       "url": "https://raw.githubusercontent.com/nori5555/nori-emby/main/icons/dou.png"
     },
@@ -94,13 +102,6 @@
       "name": "纪录片",
       "url": "https://raw.githubusercontent.com/nori5555/nori-emby/main/icons/record.png"  
     },
-    {
-      "name": "cc公益",
-      "url": "https://raw.githubusercontent.com/nori5555/nori-emby/main/icons/cc.png"
-    },
-    {
-      "name": "终点站",
-      "url": "https://raw.githubusercontent.com/nori5555/nori-emby/main/icons/z.png" },
     {
       "name": "迷雾剧场",
       "url": "https://raw.githubusercontent.com/nori5555/nori-emby/main/icons/M.png" 
