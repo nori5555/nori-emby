@@ -77,14 +77,22 @@
     {
       "name": "Raise",
       "url": "https://raw.githubusercontent.com/nori5555/nori-emby/main/icons/raise.png"
-      },
+    },
     {
        "name": "悬疑",
       "url": "https://raw.githubusercontent.com/nori5555/nori-emby/main/icons/dou.png"
     },
     {
       "name": "喜剧",
-      "url": "https://raw.githubusercontent.com/nori5555/nori-emby/main/icons/happy.png"
+      "url": "https://raw.githubusercontent.com/nori5555/nori-emby/main/icons/happy.png" 
+    },
+    {
+       "name": "惊悚",
+      "url": "https://raw.githubusercontent.com/nori5555/nori-emby/main/icons/scare.png"
+    },
+    {
+      "name": "纪录片",
+      "url": "https://raw.githubusercontent.com/nori5555/nori-emby/main/icons/record.png"
     }
   ]
 }
