@@ -103,7 +103,18 @@
       "url": "https://raw.githubusercontent.com/nori5555/nori-emby/main/icons/z.png" },
     {
       "name": "迷雾剧场",
-      "url": "https://raw.githubusercontent.com/nori5555/nori-emby/main/icons/M.png"
+      "url": "https://raw.githubusercontent.com/nori5555/nori-emby/main/icons/M.png" 
+    },
+    {
+      "name": "动漫推荐",
+      "url": "https://raw.githubusercontent.com/nori5555/nori-emby/main/icons/don.png"
+    },
+    {
+      "name": "科幻推荐",
+      "url": "https://raw.githubusercontent.com/nori5555/nori-emby/main/icons/ke.png" },
+    {
+      "name": "综艺推荐",
+      "url": "https://raw.githubusercontent.com/nori5555/nori-emby/main/icons/zon.png"
     }
   ]
 }
