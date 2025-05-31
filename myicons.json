@@ -84,7 +84,11 @@
     },
     {
       "name": "终点站",
-      "url": "https://raw.githubusercontent.com/nori5555/nori-emby/main/icons/z.png" 
+      "url": "https://raw.githubusercontent.com/nori5555/nori-emby/main/icons/z.png"   
+    },
+    {
+       "name": "飞了个喵",
+      "url": "https://raw.githubusercontent.com/nori5555/nori-emby/main/icons/fei.png"
     },
     {
        "name": "悬疑",
