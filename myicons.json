@@ -104,7 +104,11 @@
     },
     {
       "name": "纪录片",
-      "url": "https://raw.githubusercontent.com/nori5555/nori-emby/main/icons/record.png"  
+      "url": "https://raw.githubusercontent.com/nori5555/nori-emby/main/icons/record.png" 
+    },
+    {
+      "name": "历史",
+      "url": "https://raw.githubusercontent.com/nori5555/nori-emby/main/icons/li.png"  
     },
     {
       "name": "迷雾剧场",
@@ -120,10 +124,15 @@
     },
     {
       "name": "科幻推荐",
-      "url": "https://raw.githubusercontent.com/nori5555/nori-emby/main/icons/ke.png" },
+      "url": "https://raw.githubusercontent.com/nori5555/nori-emby/main/icons/ke.png" 
+    },
     {
       "name": "综艺推荐",
-      "url": "https://raw.githubusercontent.com/nori5555/nori-emby/main/icons/zon.png"
+      "url": "https://raw.githubusercontent.com/nori5555/nori-emby/main/icons/zon.png" 
+    },
+    {
+      "name": "imdb推荐",
+      "url": "https://raw.githubusercontent.com/nori5555/nori-emby/main/icons/imdb.png"
     }
   ]
 }
