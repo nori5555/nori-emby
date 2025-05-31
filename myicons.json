@@ -91,14 +91,6 @@
       "url": "https://raw.githubusercontent.com/nori5555/nori-emby/main/icons/fei.png"
     },
     {
-       "name": "悬疑",
-      "url": "https://raw.githubusercontent.com/nori5555/nori-emby/main/icons/dou.png"
-    },
-    {
-      "name": "喜剧",
-      "url": "https://raw.githubusercontent.com/nori5555/nori-emby/main/icons/happy.png" 
-    },
-    {
        "name": "惊悚",
       "url": "https://raw.githubusercontent.com/nori5555/nori-emby/main/icons/scare.png"
     },
@@ -118,7 +110,15 @@
       "name": "白夜剧场",
       "url": "https://raw.githubusercontent.com/nori5555/nori-emby/main/icons/bai.png" 
     },
+    { 
+       "name": "悬疑推荐",
+      "url": "https://raw.githubusercontent.com/nori5555/nori-emby/main/icons/dou.png"
+    },
     {
+      "name": "喜剧推荐",
+      "url": "https://raw.githubusercontent.com/nori5555/nori-emby/main/icons/happy.png"
+    },
+    { 
       "name": "动漫推荐",
       "url": "https://raw.githubusercontent.com/nori5555/nori-emby/main/icons/don.png"
     },
@@ -132,7 +132,15 @@
     },
     {
       "name": "imdb推荐",
-      "url": "https://raw.githubusercontent.com/nori5555/nori-emby/main/icons/imdb.png"
+      "url": "https://raw.githubusercontent.com/nori5555/nori-emby/main/icons/imdb.png" 
+    },
+    {
+      "name": "douban推荐",
+      "url": "https://raw.githubusercontent.com/nori5555/nori-emby/main/icons/douban.png"  
+    },
+    {
+      "name": "bangumi推荐",
+      "url": "https://raw.githubusercontent.com/nori5555/nori-emby/main/icons/bangumi.png"
     }
   ]
 }
