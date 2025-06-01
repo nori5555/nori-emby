@@ -68,7 +68,11 @@
     },
     {
       "name": "星云",
-      "url": "https://raw.githubusercontent.com/nori5555/nori-emby/main/icons/star.png"
+      "url": "https://raw.githubusercontent.com/nori5555/nori-emby/main/icons/star.png" 
+    },
+    {
+      "name": "星云2",
+      "url": "https://raw.githubusercontent.com/nori5555/nori-emby/main/icons/star2.png"
     },
     {
        "name": "Siesta",
@@ -101,6 +105,14 @@
     {
       "name": "历史",
       "url": "https://raw.githubusercontent.com/nori5555/nori-emby/main/icons/li.png"  
+    },
+    {
+      "name": "科幻",
+      "url": "https://raw.githubusercontent.com/nori5555/nori-emby/main/icons/kehuan.png" 
+    },
+    {
+      "name": "动作",
+      "url": "https://raw.githubusercontent.com/nori5555/nori-emby/main/icons/dz.png"   
     },
     {
       "name": "迷雾剧场",
