@@ -96,7 +96,11 @@
     },
     {
        "name": "july",
-      "url": "https://raw.githubusercontent.com/nori5555/nori-emby/main/icons/july.png"
+      "url": "https://raw.githubusercontent.com/nori5555/nori-emby/main/icons/july.png" 
+    },
+    {
+       "name": "蛋挞云",
+      "url": "https://raw.githubusercontent.com/nori5555/nori-emby/main/icons/egg.png"
     },
     {
        "name": "惊悚",
