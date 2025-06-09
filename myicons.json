@@ -112,7 +112,15 @@
     },
     {
        "name": "惊悚",
-      "url": "https://raw.githubusercontent.com/nori5555/nori-emby/main/icons/scare.png"
+      "url": "https://raw.githubusercontent.com/nori5555/nori-emby/main/icons/scare.png" 
+    },
+    {
+       "name": "恐怖",
+      "url": "https://raw.githubusercontent.com/nori5555/nori-emby/main/icons/konbu.png" 
+    },
+    {
+       "name": "喜剧",
+      "url": "https://raw.githubusercontent.com/nori5555/nori-emby/main/icons/xiju.png"
     },
     {
       "name": "纪录片",
