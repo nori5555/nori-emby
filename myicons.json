@@ -148,7 +148,11 @@
     },
     {
       "name": "综艺",
-      "url": "https://raw.githubusercontent.com/nori5555/nori-emby/main/icons/zy.png"        
+      "url": "https://raw.githubusercontent.com/nori5555/nori-emby/main/icons/zy.png" 
+    },
+    {
+      "name": "丧尸",
+      "url": "https://raw.githubusercontent.com/nori5555/nori-emby/main/icons/ss.png"         
     },
     {
       "name": "迷雾剧场",
