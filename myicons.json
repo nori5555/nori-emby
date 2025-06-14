@@ -192,7 +192,11 @@
     },
     {
       "name": "bangumi推荐",
-      "url": "https://raw.githubusercontent.com/nori5555/nori-emby/main/icons/bangumi.png"
+      "url": "https://raw.githubusercontent.com/nori5555/nori-emby/main/icons/bangumi.png"    
+    },
+    {
+      "name": "fw",
+      "url": "https://raw.githubusercontent.com/nori5555/nori-emby/main/icons/fw.png"
     }
   ]
 }
