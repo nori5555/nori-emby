@@ -188,7 +188,19 @@
     },
     {
       "name": "热门剧集",
-      "url": "https://raw.githubusercontent.com/nori5555/nori-emby/main/icons/juj.png" 
+      "url": "https://raw.githubusercontent.com/nori5555/nori-emby/main/icons/juj.png"  
+    },
+    {
+      "name": "imdb",
+      "url": "https://raw.githubusercontent.com/nori5555/nori-emby/main/icons/imdb2.png" 
+    },
+    {
+      "name": "douban",
+      "url": "https://raw.githubusercontent.com/nori5555/nori-emby/main/icons/douban2.png"  
+    },
+    {
+      "name": "bangumi",
+      "url": "https://raw.githubusercontent.com/nori5555/nori-emby/main/icons/bangumi2.png"   
     },
     {
       "name": "imdb推荐",
