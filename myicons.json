@@ -180,7 +180,11 @@
     },
     {
       "name": "综艺推荐",
-      "url": "https://raw.githubusercontent.com/nori5555/nori-emby/main/icons/zon.png" 
+      "url": "https://raw.githubusercontent.com/nori5555/nori-emby/main/icons/zon.png"  
+    },
+    {
+      "name": "热门电影",
+      "url": "https://raw.githubusercontent.com/nori5555/nori-emby/main/icons/dy.png" 
     },
     {
       "name": "imdb推荐",
