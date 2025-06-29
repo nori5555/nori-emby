@@ -240,7 +240,11 @@
     },
     {
       "name": "imdb",
-      "url": "https://raw.githubusercontent.com/nori5555/nori-emby/main/icons/imdb2.png"    
+      "url": "https://raw.githubusercontent.com/nori5555/nori-emby/main/icons/imdb2.png" 
+    },
+    {
+      "name": "imdb夜间",
+      "url": "https://raw.githubusercontent.com/nori5555/nori-emby/main/icons/imdb3.png"      
     },
     {
       "name": "imdb推荐",
@@ -248,11 +252,23 @@
     },
     {
       "name": "douban推荐",
-      "url": "https://raw.githubusercontent.com/nori5555/nori-emby/main/icons/douban.png"  
+      "url": "https://raw.githubusercontent.com/nori5555/nori-emby/main/icons/douban.png"
+    },
+    {
+      "name": "douban夜间",
+      "url": "https://raw.githubusercontent.com/nori5555/nori-emby/main/icons/douban2.png"  
     },
     {
       "name": "bangumi推荐",
-      "url": "https://raw.githubusercontent.com/nori5555/nori-emby/main/icons/bangumi.png"    
+      "url": "https://raw.githubusercontent.com/nori5555/nori-emby/main/icons/bangumi.png" 
+    },
+    {
+      "name": "douban夜间",
+      "url": "https://raw.githubusercontent.com/nori5555/nori-emby/main/icons/douban2.png"  
+    },
+    {
+      "name": "bangumi夜间",
+      "url": "https://raw.githubusercontent.com/nori5555/nori-emby/main/icons/bgm2.png"     
     },
     {
       "name": "fw",
