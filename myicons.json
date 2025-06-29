@@ -108,7 +108,11 @@
     },
     {
        "name": "蛋挞云",
-      "url": "https://raw.githubusercontent.com/nori5555/nori-emby/main/icons/egg.png"
+      "url": "https://raw.githubusercontent.com/nori5555/nori-emby/main/icons/egg.png"  
+    },
+    {
+       "name": "paolu",
+      "url": "https://raw.githubusercontent.com/nori5555/nori-emby/main/icons/paolu.png"
     },
     {
        "name": "惊悚",
