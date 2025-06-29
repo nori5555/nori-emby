@@ -123,8 +123,16 @@
       "url": "https://raw.githubusercontent.com/nori5555/nori-emby/main/icons/konbu.png" 
     },
     {
+       "name": "恐怖夜间",
+      "url": "https://raw.githubusercontent.com/nori5555/nori-emby/main/icons/konbu2.png" 
+    },
+    {
        "name": "喜剧",
-      "url": "https://raw.githubusercontent.com/nori5555/nori-emby/main/icons/xiju.png"
+      "url": "https://raw.githubusercontent.com/nori5555/nori-emby/main/icons/xiju.png"    
+    },
+    {
+       "name": "喜剧夜间",
+      "url": "https://raw.githubusercontent.com/nori5555/nori-emby/main/icons/xiju2.png"
     },
     {
       "name": "纪录片",
@@ -132,7 +140,11 @@
     },
     {
       "name": "历史",
-      "url": "https://raw.githubusercontent.com/nori5555/nori-emby/main/icons/li.png"  
+      "url": "https://raw.githubusercontent.com/nori5555/nori-emby/main/icons/li.png"
+    },
+    {
+      "name": "历史夜间",
+      "url": "https://raw.githubusercontent.com/nori5555/nori-emby/main/icons/li2.png"    
     },
     {
       "name": "科幻",
@@ -144,15 +156,27 @@
     },
     {
       "name": "动作",
-      "url": "https://raw.githubusercontent.com/nori5555/nori-emby/main/icons/dz.png" 
+      "url": "https://raw.githubusercontent.com/nori5555/nori-emby/main/icons/dz.png"    
+    },
+    {
+      "name": "动作夜间",
+      "url": "https://raw.githubusercontent.com/nori5555/nori-emby/main/icons/dz2.png"  
     },
     {
       "name": "悬疑",
-      "url": "https://raw.githubusercontent.com/nori5555/nori-emby/main/icons/dou2.png"   
+      "url": "https://raw.githubusercontent.com/nori5555/nori-emby/main/icons/dou2.png"    
+    },
+    {
+      "name": "悬疑夜间",
+      "url": "https://raw.githubusercontent.com/nori5555/nori-emby/main/icons/dou3.png"   
     },
     {
       "name": "爱情",
-      "url": "https://raw.githubusercontent.com/nori5555/nori-emby/main/icons/ai.png"        
+      "url": "https://raw.githubusercontent.com/nori5555/nori-emby/main/icons/ai.png" 
+    },
+    {
+      "name": "爱情夜间",
+      "url": "https://raw.githubusercontent.com/nori5555/nori-emby/main/icons/ai2.png"          
     },
     {
       "name": "综艺",
