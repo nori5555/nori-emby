@@ -116,7 +116,11 @@
     },
     {
        "name": "惊悚",
-      "url": "https://raw.githubusercontent.com/nori5555/nori-emby/main/icons/scare.png" 
+      "url": "https://raw.githubusercontent.com/nori5555/nori-emby/main/icons/scare.png"
+    },
+    {
+       "name": "惊悚夜间",
+      "url": "https://raw.githubusercontent.com/nori5555/nori-emby/main/icons/scare2.png"  
     },
     {
        "name": "恐怖",
@@ -136,7 +140,11 @@
     },
     {
       "name": "纪录片",
-      "url": "https://raw.githubusercontent.com/nori5555/nori-emby/main/icons/record.png" 
+      "url": "https://raw.githubusercontent.com/nori5555/nori-emby/main/icons/record.png"   
+    },
+    {
+      "name": "纪录片夜间",
+      "url": "https://raw.githubusercontent.com/nori5555/nori-emby/main/icons/record2.png"  
     },
     {
       "name": "历史",
