@@ -136,7 +136,11 @@
     },
     {
       "name": "科幻",
-      "url": "https://raw.githubusercontent.com/nori5555/nori-emby/main/icons/kehuan.png" 
+      "url": "https://raw.githubusercontent.com/nori5555/nori-emby/main/icons/kehuan.png"
+    },
+    {
+      "name": "科幻夜间",
+      "url": "https://raw.githubusercontent.com/nori5555/nori-emby/main/icons/kehuan2.png" 
     },
     {
       "name": "动作",
@@ -152,11 +156,19 @@
     },
     {
       "name": "综艺",
-      "url": "https://raw.githubusercontent.com/nori5555/nori-emby/main/icons/zy.png" 
+      "url": "https://raw.githubusercontent.com/nori5555/nori-emby/main/icons/zy.png"    
+    },
+    {
+      "name": "综艺夜间",
+      "url": "https://raw.githubusercontent.com/nori5555/nori-emby/main/icons/zy2.png" 
     },
     {
       "name": "丧尸",
-      "url": "https://raw.githubusercontent.com/nori5555/nori-emby/main/icons/ss.png"         
+      "url": "https://raw.githubusercontent.com/nori5555/nori-emby/main/icons/ss.png" 
+    },
+    {
+      "name": "丧尸夜间",
+      "url": "https://raw.githubusercontent.com/nori5555/nori-emby/main/icons/ss2.png"         
     },
     {
       "name": "迷雾剧场",
