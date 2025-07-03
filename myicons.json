@@ -116,7 +116,11 @@
     },
     {
        "name": "入机",
-      "url": "https://raw.githubusercontent.com/nori5555/nori-emby/main/icons/ru.png"
+      "url": "https://raw.githubusercontent.com/nori5555/nori-emby/main/icons/ru.png" 
+    },
+    {
+       "name": "入机2",
+      "url": "https://raw.githubusercontent.com/nori5555/nori-emby/main/icons/ru2.png"
     },
     {
        "name": "惊悚",
