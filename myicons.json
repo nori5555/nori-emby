@@ -272,7 +272,11 @@
     },
     {
       "name": "bangumi夜间",
-      "url": "https://raw.githubusercontent.com/nori5555/nori-emby/main/icons/bgm2.png"     
+      "url": "https://raw.githubusercontent.com/nori5555/nori-emby/main/icons/bgm2.png" 
+    },
+    {
+      "name": "Blumhouse",
+      "url": "https://raw.githubusercontent.com/nori5555/nori-emby/main/icons/BH.png"     
     },
     {
       "name": "fw",
