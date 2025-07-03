@@ -215,6 +215,10 @@
       "url": "https://raw.githubusercontent.com/nori5555/nori-emby/main/icons/bai.png" 
     },
     { 
+       "name": "恐怖类别",
+      "url": "https://raw.githubusercontent.com/nori5555/nori-emby/main/icons/scare3.png"
+    },
+    { 
        "name": "悬疑推荐",
       "url": "https://raw.githubusercontent.com/nori5555/nori-emby/main/icons/dou.png"
     },
