@@ -283,7 +283,11 @@
       "url": "https://raw.githubusercontent.com/nori5555/nori-emby/main/icons/BH.png"     
     },
     {
-      "name": "fw",
+      "name": "forwardporn",
+      "url": "https://raw.githubusercontent.com/nori5555/nori-emby/main/icons/fw.png" 
+    },
+    {
+      "name": "forwardporn",
       "url": "https://raw.githubusercontent.com/nori5555/nori-emby/main/icons/fw.png"
     }
   ]
