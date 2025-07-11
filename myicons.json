@@ -228,7 +228,11 @@
     },
     { 
        "name": "丧尸类别",
-      "url": "https://raw.githubusercontent.com/nori5555/nori-emby/main/icons/ss3.png"
+      "url": "https://raw.githubusercontent.com/nori5555/nori-emby/main/icons/ss3.png"  
+    },
+    { 
+       "name": "纪录片类别",
+      "url": "https://raw.githubusercontent.com/nori5555/nori-emby/main/icons/record3.png"
     },
     { 
        "name": "悬疑推荐",
