@@ -120,7 +120,15 @@
     },
     {
        "name": "入机2",
-      "url": "https://raw.githubusercontent.com/nori5555/nori-emby/main/icons/ru2.png"
+      "url": "https://raw.githubusercontent.com/nori5555/nori-emby/main/icons/ru2.png" 
+    },
+    {
+       "name": "star",
+      "url": "https://raw.githubusercontent.com/nori5555/nori-emby/main/icons/staremby2.png" 
+    },
+    {
+       "name": "star2",
+      "url": "https://raw.githubusercontent.com/nori5555/nori-emby/main/icons/staremby.png"
     },
     {
        "name": "惊悚",
