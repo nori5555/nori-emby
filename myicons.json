@@ -144,7 +144,15 @@
     },
     {
        "name": "憨豆2",
-      "url": "https://raw.githubusercontent.com/nori5555/nori-emby/main/icons/handou2.png"
+      "url": "https://raw.githubusercontent.com/nori5555/nori-emby/main/icons/handou2.png" 
+    },
+    {
+       "name": "shark",
+      "url": "https://raw.githubusercontent.com/nori5555/nori-emby/main/icons/shark.png"
+    },
+    {
+       "name": "shark2",
+      "url": "https://raw.githubusercontent.com/nori5555/nori-emby/main/icons/shark2.png"
     },
     {
        "name": "惊悚",
