@@ -136,7 +136,15 @@
     },
     {
        "name": "kfc2",
-      "url": "https://raw.githubusercontent.com/nori5555/nori-emby/main/icons/kfc2.png"
+      "url": "https://raw.githubusercontent.com/nori5555/nori-emby/main/icons/kfc2.png" 
+    },
+    {
+       "name": "憨豆",
+      "url": "https://raw.githubusercontent.com/nori5555/nori-emby/main/icons/handou.png"
+    },
+    {
+       "name": "憨豆2",
+      "url": "https://raw.githubusercontent.com/nori5555/nori-emby/main/icons/handou2.png"
     },
     {
        "name": "惊悚",
