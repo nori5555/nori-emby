@@ -136,7 +136,11 @@
     },
     {
        "name": "lily2",
-      "url": "https://raw.githubusercontent.com/nori5555/nori-emby/main/icons/lily2.png"
+      "url": "https://raw.githubusercontent.com/nori5555/nori-emby/main/icons/lily2.png" 
+    },
+    {
+       "name": "uhd",
+      "url": "https://raw.githubusercontent.com/nori5555/nori-emby/main/icons/uhd.png"
     },
     {
        "name": "惊悚",
