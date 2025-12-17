@@ -320,7 +320,11 @@
     },
     {
       "name": "GPT",
-      "url": "https://raw.githubusercontent.com/nori5555/nori-emby/main/icons/GPT.png"     
+      "url": "https://raw.githubusercontent.com/nori5555/nori-emby/main/icons/GPT.png"  
+    },
+    {
+      "name": "earth",
+      "url": "https://raw.githubusercontent.com/nori5555/nori-emby/main/icons/earth.png"        
     },
     {
       "name": "forward",
