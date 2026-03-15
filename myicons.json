@@ -236,7 +236,15 @@
     },
     {
       "name": "丧尸夜间",
-      "url": "https://raw.githubusercontent.com/nori5555/nori-emby/main/icons/ss2.png"         
+      "url": "https://raw.githubusercontent.com/nori5555/nori-emby/main/icons/ss2.png"
+    },
+    {
+      "name": "正午阳光",
+      "url": "https://raw.githubusercontent.com/nori5555/nori-emby/main/icons/zwyg.png" 
+    },
+    {
+      "name": "正午阳光2",
+      "url": "https://raw.githubusercontent.com/nori5555/nori-emby/main/icons/zwyg2.png" 
     },
     {
       "name": "X剧场",
