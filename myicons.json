@@ -336,7 +336,11 @@
     },
     {
       "name": "forwardporn",
-      "url": "https://raw.githubusercontent.com/nori5555/nori-emby/main/icons/fp.png"
+      "url": "https://raw.githubusercontent.com/nori5555/nori-emby/main/icons/fp.png" 
+    },
+    {
+      "name": "比格",
+      "url": "https://raw.githubusercontent.com/nori5555/nori-emby/main/icons/dog.png"
     }
   ]
 }
