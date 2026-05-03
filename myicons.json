@@ -283,14 +283,6 @@
       "url": "https://raw.githubusercontent.com/nori5555/nori-emby/main/icons/ke.png" 
     },
     {
-      "name": "热门电影",
-      "url": "https://raw.githubusercontent.com/nori5555/nori-emby/main/icons/dy.png" 
-    },
-    {
-      "name": "热门剧集",
-      "url": "https://raw.githubusercontent.com/nori5555/nori-emby/main/icons/juj.png"  
-    },
-    {
       "name": "imdb",
       "url": "https://raw.githubusercontent.com/nori5555/nori-emby/main/icons/imdb2.png" 
     },
@@ -317,6 +309,10 @@
     {
       "name": "bangumi夜间",
       "url": "https://raw.githubusercontent.com/nori5555/nori-emby/main/icons/bgm2.png" 
+    },
+    {
+      "name": "bangumi夜间",
+      "url": "https://raw.githubusercontent.com/nori5555/nori-emby/main/icons/nf.png" 
     },
     {
       "name": "Blumhouse",
